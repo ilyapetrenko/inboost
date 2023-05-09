@@ -4,9 +4,9 @@ import { Workspace } from './components/Workspace'
 
 export const App = () => {
     return(
-        <>
+        <div>
         <Header/>
         <Workspace/>
-        </>
+        </div>
     )
 }
